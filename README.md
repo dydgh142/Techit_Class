@@ -15,3 +15,4 @@
 ---
 ## HTML 과 CSS 문법에 대해 간단히 배워 보는 시간
 
+![result](/results/result.png)
